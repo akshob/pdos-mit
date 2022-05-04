@@ -1,0 +1,3 @@
+[submodule "operating-system/xv6-labs"]
+	path = operating-system/xv6-labs
+	url = git@github.com:akshob/xv6-riscv.git
